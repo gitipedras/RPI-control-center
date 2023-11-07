@@ -1,6 +1,11 @@
 # RPI-control-center
 A Control Center for Raspberry Pi OS. Made with bash.
 
+## Requiremtents
+Tested on Raspberry Pi 4.
+- Raspberry Pi (version 4 is recommended)
+- bash (latest)
+
 ## Setting up
 
 1. Download the `main.sh` file from the main branch.
